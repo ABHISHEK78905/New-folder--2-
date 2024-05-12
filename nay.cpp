@@ -8,6 +8,7 @@ int main(){
     int a = 46;
     cout << "Siuu" << endl;
     cout << "enter the value of " << a << endl;
+    
        
     return 0;
 }
